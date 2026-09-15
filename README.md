@@ -67,16 +67,16 @@ The system uses a relational database design with the following key tables:
 ## 📸 Screenshots
 
 ### Application Views
-![Screenshot 1](Project%20ss/1.jpeg)
-![Screenshot 2](Project%20ss/2.jpeg)
-![Screenshot 3](Project%20ss/3.jpeg)
-![Screenshot 4](Project%20ss/4.jpeg)
-![Screenshot 5](Project%20ss/5.jpeg)
-![Screenshot 6](Project%20ss/6.jpeg)
-![Screenshot 7](Project%20ss/7.jpeg)
-![Screenshot 8](Project%20ss/8.jpeg)
-![Screenshot 9](Project%20ss/9.jpeg)
-![Screenshot 10](Project%20ss/10.jpeg)
+![Screenshot 1](WinFormsApp1/SS/1.jpeg)
+![Screenshot 2](WinFormsApp1/SS/2.jpeg)
+![Screenshot 3](WinFormsApp1/SS/3.jpeg)
+![Screenshot 4](WinFormsApp1/SS/4.jpeg)
+![Screenshot 5](WinFormsApp1/SS/5.jpeg)
+![Screenshot 6](WinFormsApp1/SS/6.jpeg)
+![Screenshot 7](WinFormsApp1/SS/7.jpeg)
+![Screenshot 8](WinFormsApp1/SS/8.jpeg)
+![Screenshot 9](WinFormsApp1/SS/9.jpeg)
+![Screenshot 10](WinFormsApp1/SS/10.jpeg)
 
 ---
 *Developed as a C# Windows Forms Application Project.*
