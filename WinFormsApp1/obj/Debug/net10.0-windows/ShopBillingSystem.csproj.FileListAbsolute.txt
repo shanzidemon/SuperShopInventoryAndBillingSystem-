@@ -1,0 +1,361 @@
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.exe
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll.config
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.deps.json
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.runtimeconfig.json
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.pdb
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.AssemblyReference.cache
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.Properties.Resources.resources
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddCategory.resources
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddEmpolyee.resources
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddProducts.resources
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminDashBoard.resources
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormAdmin.resources
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormEmployee.resources
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.FormLogin.resources
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.GenerateResource.cache
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfoInputs.cache
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfo.cs
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBill.316F1426.Up2Date
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\refint\ShopBillingSystem.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.pdb
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.genruntimeconfig.cache
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ref\ShopBillingSystem.dll
+C:\Users\salma\source\repos\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.SalesHistory.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.exe
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll.config
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.deps.json
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.runtimeconfig.json
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.pdb
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.AssemblyReference.cache
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.Properties.Resources.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddCategory.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddEmpolyee.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddProducts.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminDashBoard.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormAdmin.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormEmployee.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.FormLogin.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.SalesHistory.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.GenerateResource.cache
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfoInputs.cache
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfo.cs
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.CoreCompileInputs.cache
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBill.316F1426.Up2Date
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\refint\ShopBillingSystem.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.pdb
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.genruntimeconfig.cache
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ref\ShopBillingSystem.dll
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeSales.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeDashboard.resources
+d:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeProfile.resources
+D:\Shanzid\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FourmRecipt.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.exe
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll.config
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.deps.json
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.runtimeconfig.json
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.pdb
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.AssemblyReference.cache
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.Properties.Resources.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddCategory.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddEmpolyee.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddProducts.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminDashBoard.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeDashboard.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeProfile.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeSales.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormAdmin.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormEmployee.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.FormLogin.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FourmRecipt.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.SalesHistory.resources
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.GenerateResource.cache
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfoInputs.cache
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfo.cs
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBill.316F1426.Up2Date
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\refint\ShopBillingSystem.dll
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.pdb
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.genruntimeconfig.cache
+C:\Users\fahad\Desktop\Project1\Project1\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ref\ShopBillingSystem.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.exe
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll.config
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.deps.json
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.runtimeconfig.json
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.pdb
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.AssemblyReference.cache
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.Properties.Resources.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddCategory.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddEmpolyee.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddProducts.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminDashBoard.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeDashboard.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeProfile.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeSales.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormAdmin.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormEmployee.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.FormLogin.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FourmRecipt.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.SalesHistory.resources
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.GenerateResource.cache
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfoInputs.cache
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfo.cs
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.CoreCompileInputs.cache
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBill.316F1426.Up2Date
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\refint\ShopBillingSystem.dll
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.pdb
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.genruntimeconfig.cache
+C:\Users\salma\Downloads\WinFormsApp1 (1)\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ref\ShopBillingSystem.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.AssemblyReference.cache
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\refint\ShopBillingSystem.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.pdb
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.exe
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll.config
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.deps.json
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.runtimeconfig.json
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ShopBillingSystem.pdb
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Bcl.Cryptography.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Extensions.Abstractions.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Data.SqlClient.Internal.Logging.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Options.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.Extensions.Primitives.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\Microsoft.SqlServer.Server.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.Data.SqlClient.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\de\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\es\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\it\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x64\native\sni.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win-x86\native\sni.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\bin\Debug\net10.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.Properties.Resources.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddCategory.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddEmpolyee.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminAddProducts.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.AdminDashBoard.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeDashboard.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeProfile.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.EmployeeSales.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormAdmin.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FormEmployee.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.FormLogin.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.FourmRecipt.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.UI.SalesHistory.resources
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.GenerateResource.cache
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfoInputs.cache
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.AssemblyInfo.cs
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.csproj.CoreCompileInputs.cache
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBill.316F1426.Up2Date
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ShopBillingSystem.genruntimeconfig.cache
+D:\Shanzid\WinFormsApp1\WinFormsApp1\WinFormsApp1\obj\Debug\net10.0-windows\ref\ShopBillingSystem.dll

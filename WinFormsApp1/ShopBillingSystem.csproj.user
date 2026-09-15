@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="UI\AdminAddCategory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\AdminAddEmpolyee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\AdminAddProducts.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\AdminDashBoard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\EmployeeDashboard.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\EmployeeProfile.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\EmployeeSales.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="UI\FormAdmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormEmployee.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FormLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\FourmRecipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UI\SalesHistory.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
